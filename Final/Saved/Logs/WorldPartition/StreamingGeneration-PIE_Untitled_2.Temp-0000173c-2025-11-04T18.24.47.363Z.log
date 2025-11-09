@@ -1,0 +1,56 @@
+[+] Containers:
+ |- [+] Container: /Temp/Untitled_2
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:2B273C404474BF5A9B649DA7E2165F1F NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:9F0619B24203E904A6781199CED4CB46 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05DD61249FF9E02_1864986227 Label:SK_Candle_2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=400.000 Y=110.000 Z=560.000), Max=(X=400.000 Y=110.000 Z=560.000) RuntimeBounds:IsValid=true, Min=(X=400.000 Y=110.000 Z=560.000), Max=(X=400.000 Y=110.000 Z=560.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:B2502DCD4EFB4FFA3566E5AAEA001AF7 BaseClass:/Game/Candle2/BP_Candle.BP_Candle_C NativeClass:/Script/Engine.Actor Name:BP_Candle_C_UAID_2CF05DD61249009F02_1882653407 Label:BP_Candle SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=722.673 Y=-388.349 Z=1426.356), Max=(X=808.617 Y=-301.383 Z=2611.037) RuntimeBounds:IsValid=true, Min=(X=722.673 Y=-388.349 Z=1426.356), Max=(X=808.617 Y=-301.383 Z=2611.037) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:2B273C404474BF5A9B649DA7E2165F1F NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:9F0619B24203E904A6781199CED4CB46 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_2CF05DD61249FF9E02_1864986227 Label:SK_Candle_2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=400.000 Y=110.000 Z=560.000), Max=(X=400.000 Y=110.000 Z=560.000) RuntimeBounds:IsValid=true, Min=(X=400.000 Y=110.000 Z=560.000), Max=(X=400.000 Y=110.000 Z=560.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:B2502DCD4EFB4FFA3566E5AAEA001AF7 BaseClass:/Game/Candle2/BP_Candle.BP_Candle_C NativeClass:/Script/Engine.Actor Name:BP_Candle_C_UAID_2CF05DD61249009F02_1882653407 Label:BP_Candle SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=722.673 Y=-388.349 Z=1426.356), Max=(X=808.617 Y=-301.383 Z=2611.037) RuntimeBounds:IsValid=true, Min=(X=722.673 Y=-388.349 Z=1426.356), Max=(X=808.617 Y=-301.383 Z=2611.037) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=400.000 Y=-388.349 Z=560.000), Max=(X=808.617 Y=110.000 Z=2611.037)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Temp/Untitled_2
+----------------------------------------------------------------------------------------------------------------
+Untitled - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Untitled Persistent Level
+ |- Always loaded Actor Count: 1 
+ |- Actor Path: /Temp/Untitled_2.Untitled:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_2/2/WO/6AGKX4LON02NRP4ISWUY2E
+
+----------------------------------------------------------------------------------------------------------------
+Untitled - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell Untitled_2_MainPartition_L0_X0_Y-1 (DSAEFXQUW54KDZI0CZOSZH6RJ)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=722.673 Y=-388.349 Z=0.000), Max=(X=808.617 Y=-301.383 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-12800.000 Z=0.000), Max=(X=12800.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Temp/Untitled_2.Untitled:PersistentLevel.BP_Candle_C_UAID_2CF05DD61249009F02_1882653407
+ |   |-         Package: /Temp/__ExternalActors__/Untitled_2/0/9Y/9QEFX4MYA7J13RKGM8C4TV
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B2502DCD4EFB4FFA3566E5AAEA001AF7
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Untitled_2_MainPartition_L0_X0_Y0 (EYOXFD0AWWV363VC4X073AA5M)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=400.000 Y=110.000 Z=0.000), Max=(X=400.000 Y=110.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=12800.000 Y=12800.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Temp/Untitled_2.Untitled:PersistentLevel.StaticMeshActor_UAID_2CF05DD61249FF9E02_1864986227
+ |   |-         Package: /Temp/__ExternalActors__/Untitled_2/8/BT/BP231JICZD1O8AWD2LJUSX
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9F0619B24203E904A6781199CED4CB46
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
